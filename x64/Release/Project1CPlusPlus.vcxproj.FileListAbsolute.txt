@@ -1,0 +1,30 @@
+C:\Users\maxim\source\repos\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.vcxproj.AssemblyReference.cache
+C:\Users\maxim\source\repos\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\maxim\source\repos\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.MyForm.resources
+C:\Users\maxim\source\repos\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.Zavdanna0.resources
+C:\Users\maxim\source\repos\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.vcxproj.GenerateResource.cache
+C:\Users\maxim\source\repos\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.Zavdanna1.resources
+C:\Users\maxim\source\repos\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.Zavdanna1_1.resources
+C:\Users\maxim\source\repos\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.Zavdanna1_2.resources
+C:\Users\maxim\source\repos\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.Zavdanna1_3.resources
+C:\Users\maxim\source\repos\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.Zavdanna1_4.resources
+C:\Users\maxim\source\repos\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.Zavdanna1_5.resources
+C:\Users\maxim\source\repos\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.Zavdanna1_6.resources
+C:\Users\maxim\source\repos\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.Zavdanna2.resources
+C:\Users\maxim\source\repos\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.Zavdanna3.resources
+C:\Users\maxim\source\repos\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.Zavdanna4.resources
+C:\Users\Ready2Go\OneDrive\Робочий стіл\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.vcxproj.AssemblyReference.cache
+C:\Users\Ready2Go\OneDrive\Робочий стіл\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Ready2Go\OneDrive\Робочий стіл\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.MyForm.resources
+C:\Users\Ready2Go\OneDrive\Робочий стіл\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.Zavdanna0.resources
+C:\Users\Ready2Go\OneDrive\Робочий стіл\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.Zavdanna1.resources
+C:\Users\Ready2Go\OneDrive\Робочий стіл\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.Zavdanna1_1.resources
+C:\Users\Ready2Go\OneDrive\Робочий стіл\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.Zavdanna1_2.resources
+C:\Users\Ready2Go\OneDrive\Робочий стіл\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.Zavdanna1_3.resources
+C:\Users\Ready2Go\OneDrive\Робочий стіл\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.Zavdanna1_4.resources
+C:\Users\Ready2Go\OneDrive\Робочий стіл\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.Zavdanna1_5.resources
+C:\Users\Ready2Go\OneDrive\Робочий стіл\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.Zavdanna1_6.resources
+C:\Users\Ready2Go\OneDrive\Робочий стіл\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.Zavdanna2.resources
+C:\Users\Ready2Go\OneDrive\Робочий стіл\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.Zavdanna3.resources
+C:\Users\Ready2Go\OneDrive\Робочий стіл\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.Zavdanna4.resources
+C:\Users\Ready2Go\OneDrive\Робочий стіл\Project1CPlusPlus\Project1CPlusPlus\x64\Release\Project1CPlusPlus.vcxproj.GenerateResource.cache
